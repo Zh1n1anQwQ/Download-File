@@ -6,3 +6,4 @@
 {be6cbf53-67ce-4490-93f4-417bd8bebe4c} //李振零
 {aa588103-b0e8-11f0-89e0-806e6f6e6963} // liuqing
 {7ba20ece-5074-11f1-b419-806e6f6e6963} // goku
+{569edc22-62e7-11f1-a8bc-806e6f6e6963} //vrizzy
